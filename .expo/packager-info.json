@@ -1,0 +1,10 @@
+{
+  "expoServerPort": 19000,
+  "expoServerNgrokUrl": "https://xh-7gi.teejohn247.quiz-app.exp.direct",
+  "packagerNgrokUrl": "https://packager.xh-7gi.teejohn247.quiz-app.exp.direct",
+  "ngrokPid": 13472,
+  "packagerPort": 19001,
+  "packagerPid": 17476,
+  "webpackServerPort": null,
+  "devToolsPort": 19002
+}
